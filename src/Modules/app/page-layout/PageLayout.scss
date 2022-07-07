@@ -1,0 +1,7 @@
+.page-layout {
+    height: 100%;
+    gap: 10px 10px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    overflow: hidden;
+}
